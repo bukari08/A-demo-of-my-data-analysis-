@@ -1,4 +1,8 @@
 # E Commerce Sales Analysis
+## Table of Contents
+ - [Project Overview](#project-overview)
+ - [Data Source](#data-source)
+ - [Tools](tools)
 
 ### Project Overview 
 This data analysis 
@@ -24,7 +28,9 @@ Sales Data: The primary dataset used for
 
 ### Data Analysis
 ```
-Select * from persons
+Select *
+from persons
+where name == Baba
 ```
 
 ### Results
