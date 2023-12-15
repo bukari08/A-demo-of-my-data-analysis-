@@ -20,5 +20,21 @@ Sales Data: The primary dataset used for
   3. Data cleaning
 
 ### Exploratory Data Analysis
-- What ios the overall trend
+- What is the overall trend
+
+### Data Analysis
+```
+Select * from persons
+```
+
+### Results
+The analysis results are
+1. the company has
+2. the sales
+
+### Recommendations
+- Invest in marketing
+- advertize more
+
+### Limitations 
 
